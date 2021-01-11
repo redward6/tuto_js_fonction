@@ -1,7 +1,7 @@
 # tuto_js_fonction
-Tutoriel Numa sur fonctions et loops, début Javascript :
+Code pour générer les étudiants, avec une option de Lotterie pour former des groupes ou selectionner quelqu'un au hasard
+Le JS est très bordélique je cleanerai plus tard et rajouerai des commentaires
 
 https://redward6.github.io/
 Cliquez moi!
 
-J'ai énormément commenté, et essayé (c'est difficile) d'expliquer tout le fonctionnement du code dans le fichier Javascript : tuto_fonctionloop_numa.js Donc cliquez dessus, ou clonez le Git chez vous, jouez avec le code si vous le voulez, et si vous avez des questions, dites moi sur Discord :)
