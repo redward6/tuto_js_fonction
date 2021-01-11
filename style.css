@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Sedgwick Ave Display', 'Shadows Into Light', 'Architects Daughter', 'Grand Hotel', 'Lobster', 'Mali', 'Mali', 'Patrick Hand', cursive, 'Fredoka One', 'Dancing Script', 'Courgette', 'Bungee', 'Anton', 'Amatic SC', 'Roboto', 'Pacifico', 'Orbitron', 'Langar';
+    text-shadow: 3px 3px black;
+}
+
+#container_section {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+    font-family: 'Sedgwick Ave Display', 'Shadows Into Light', 'Architects Daughter', 'Grand Hotel', 'Lobster', 'Mali', 'Mali', 'Patrick Hand', cursive, 'Fredoka One', 'Dancing Script', 'Courgette', 'Bungee', 'Anton', 'Amatic SC', 'Roboto', 'Pacifico', 'Orbitron', 'Langar';
+    text-shadow: 3px 3px black;
+}
+
+/*
+"'Sedgwick Ave Display', 'Shadows Into Light';"
+"'Shadows Into Light','Architects Daughter';
+"'Architects Daughter', 'Grand Hotel';"
+"'Grand Hotel', 'Lobster';"
+"'Lobster', 'Mali';"
+"'Mali', 'Patrick Hand';"
+"'Patrick Hand', cursive;" */
+
+/*<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Anton&family=Bungee&family=Courgette&family=Dancing+Script&family=Fredoka+One&family=Langar&family=Orbitron&family=Pacifico&family=Roboto&display=swap" rel="stylesheet">
+
+font-family: 'Amatic SC', cursive;
+font-family: 'Anton', sans-serif;
+font-family: 'Bungee', cursive;
+font-family: 'Courgette', cursive;
+font-family: 'Dancing Script', cursive;
+font-family: 'Fredoka One', cursive;
+font-family: 'Langar', cursive;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Pacifico', cursive;
+font-family: 'Roboto', sans-serif;
+*/
