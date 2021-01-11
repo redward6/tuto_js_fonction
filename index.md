@@ -1,1 +1,1 @@
-./tuto_numa.html
+./index.html
